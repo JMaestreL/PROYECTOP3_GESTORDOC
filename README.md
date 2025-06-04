@@ -17,7 +17,7 @@ DigoDoku permite digitalizar, clasificar y consultar documentos escolares como a
 - (Por Implementar) Exportación a ZIP
 - (Por Implementar) Búsqueda avanzada por autor, tipo o texto
 
-## 🚀 Instalación
+## Instalación
 
 1. Clona este repositorio:
    ```bash
