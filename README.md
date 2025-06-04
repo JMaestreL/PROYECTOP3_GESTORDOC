@@ -21,4 +21,4 @@ DigoDoku permite digitalizar, clasificar y consultar documentos escolares como a
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/DigoDoku.git
+   git clone https://github.com/JMaestreL/PROYECTOP3_GESTORDOC.git
